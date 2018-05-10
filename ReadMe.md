@@ -1,0 +1,6 @@
+# My Second Atomic Repo
+
+This is a sample list:
+*1
+*2
+*3
