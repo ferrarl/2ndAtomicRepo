@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+   font-family: 'Open sans', sans-serif;
+}
+main    {
+    margin: 1em;
+}
+
+.first-header  {
+    text-align: center; color: blueviolet;
+}
+.text-black{
+    color: black;
+    float: none;
+    clear: both;
+}
+#submitButton{
+    background-color: red;
+    margin: 1em;
+    border: 5px solid;
+    padding: 0 1em 0 1em;
+}
+[for="email"]{
+    font-weight: bold
+}
+input, label, button {
+    display: block;
+}
+.box {
+    height: 10em;
+    width: 10em;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    border: 1px black solid;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px black;
+    background: url(https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/whatisspacet.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.blue {
+    background-color: blue;
+    
+    
+}
